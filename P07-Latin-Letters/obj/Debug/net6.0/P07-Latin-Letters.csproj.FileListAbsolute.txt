@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\bin\Debug\net6.0\P07-Latin-Letters.exe
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\bin\Debug\net6.0\P07-Latin-Letters.deps.json
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\bin\Debug\net6.0\P07-Latin-Letters.runtimeconfig.json
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\bin\Debug\net6.0\P07-Latin-Letters.dll
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\bin\Debug\net6.0\P07-Latin-Letters.pdb
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\obj\Debug\net6.0\P07-Latin-Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\obj\Debug\net6.0\P07-Latin-Letters.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\obj\Debug\net6.0\P07-Latin-Letters.AssemblyInfo.cs
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\obj\Debug\net6.0\P07-Latin-Letters.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\obj\Debug\net6.0\P07-Latin-Letters.dll
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\obj\Debug\net6.0\refint\P07-Latin-Letters.dll
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\obj\Debug\net6.0\P07-Latin-Letters.pdb
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\obj\Debug\net6.0\P07-Latin-Letters.genruntimeconfig.cache
+C:\Users\PC\source\repos\For-Loop\P07-Latin-Letters\obj\Debug\net6.0\ref\P07-Latin-Letters.dll

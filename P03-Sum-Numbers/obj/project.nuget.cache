@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBWrSSfMkybWCFf+52KxwpS7NGHvuF0x11j0wXRJ3e17zyblTy9EmwyRwXUXy0xWqR+LRWGMzoRUzCZd9t7Fpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\For-Loop\\P03-Sum-Numbers\\P03-Sum-Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

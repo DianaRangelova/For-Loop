@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\bin\Debug\net6.0\P06-Exam-Countdown.exe
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\bin\Debug\net6.0\P06-Exam-Countdown.deps.json
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\bin\Debug\net6.0\P06-Exam-Countdown.runtimeconfig.json
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\bin\Debug\net6.0\P06-Exam-Countdown.dll
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\bin\Debug\net6.0\P06-Exam-Countdown.pdb
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\obj\Debug\net6.0\P06-Exam-Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\obj\Debug\net6.0\P06-Exam-Countdown.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\obj\Debug\net6.0\P06-Exam-Countdown.AssemblyInfo.cs
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\obj\Debug\net6.0\P06-Exam-Countdown.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\obj\Debug\net6.0\P06-Exam-Countdown.dll
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\obj\Debug\net6.0\refint\P06-Exam-Countdown.dll
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\obj\Debug\net6.0\P06-Exam-Countdown.pdb
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\obj\Debug\net6.0\P06-Exam-Countdown.genruntimeconfig.cache
+C:\Users\PC\source\repos\For-Loop\P06-Exam-Countdown\obj\Debug\net6.0\ref\P06-Exam-Countdown.dll

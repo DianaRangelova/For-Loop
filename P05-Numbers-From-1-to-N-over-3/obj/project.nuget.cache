@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bEHpSjrvFSJ0xXhjmCUA5W/aHJBq7eIXd88S7AhVKV8FMzgSRpQHMK0Bw+G70hN+GBDYr7FX6iTV3IHLqCenJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\For-Loop\\P05-Numbers-From-1-to-N-over-3\\P05-Numbers-From-1-to-N-over-3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
